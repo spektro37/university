@@ -3,3 +3,5 @@ $ cat .gitignore
 **/build-MikutelVA_4492_KR1-Desktop_Qt_5_8_0_GCC_64bit-Release/
 **/build-dbcourseproject-Desktop_Qt_5_8_0_GCC_64bit-Debug/
 **/build-dbcourseproject-Desktop_Qt_5_8_0_GCC_64bit-Release/
+
+Software Development/Assignment 2/build-MikutelVA_4492_KR2-Desktop_Qt_5_8_0_GCC_64bit-Debug/
